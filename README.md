@@ -1,65 +1,109 @@
-![Banner](./github_banner.png)
+<div align="center">
+  <img src="./github_banner.png" alt="Banner" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Mohitul Islam</h1>
-<h3 align="center">A passionate frontend developer from Gazipur, Bangladesh</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mohitul+Islam;Full+Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Passionate Full Stack Developer | Frontend Developer | Based in Gazipur, Bangladesh 🇧🇩</h3>
 
 
-- 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **Next.js, Firebase and also Backend**
+---
 
-- 💬 Ask me about **React, Express and MongoDB**
+## 🚀 About Me
 
-- 📫 How to reach me **mohitulislam9678@gmail.com**
+```javascript
+const mohitul = {
+    location: "Gazipur, Bangladesh",
+    currentFocus: "Building scalable MERN stack applications",
+    learning: ["Next.js", "Firebase", "Advanced Backend Architecture"],
+    askMeAbout: ["React", "Express", "MongoDB", "Full Stack Development"],
+    funFact: "I don't always test my code, but when I do... it's in production 😄",
+    email: "mohitulislam9678@gmail.com"
+};
+```
 
-- ⚡ Fun fact **I don't always test my code, but when I do… it’s in production.**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 What I'm Up To
+
+- 🔭 Currently working on **MERN Stack Projects**
+- 🌱 Learning **Next.js, Firebase & Advanced Backend Development**
+- 💡 Open to collaborating on **innovative web applications**
+- 💬 Let's talk about **React, Express, MongoDB & Full Stack Development**
+- 📫 Reach me at **mohitulislam9678@gmail.com**
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-<a href="https://linkedin.com/in/mohitul-islam962" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://linkedin.com/in/mohitul-islam962" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohitulislam9678@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<h3 align="left">Language:</h3>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Languages" />
 </p>
 
-<h3 align="left">Frontend Development:</h3>
+### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,html,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" />
 </p>
 
-<h3 align="left">Backend Development:</h3>
+### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </p>
 
-<h3 align="left">Database:</h3>
+### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database" />
 </p>
 
-<h3 align="left">Backend as a Service:</h3>
+### ☁️ Backend as a Service (BaaS)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="BaaS" />
 </p>
 
-<h3 align="left">Deployment Platform:</h3>
+### 🚀 Deployment & Hosting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment" />
 </p>
 
-<h3 align="left">Software:</h3>
+### 🎯 Design Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma," />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitul&show_icons=true&locale=en&layout=compact" alt="mohitul" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitul&show_icons=true&locale=en" alt="mohitul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitul&" alt="mohitul" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitul&label=Profile%20views&color=0e75b6&style=flat" alt="mohitul" /> </p>
 
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/mohitul">Mohitul Islam</a> - Let's build something amazing together!</i>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitul&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
+</p>
